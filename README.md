@@ -259,4 +259,4 @@ MIT — use freely, attribution appreciated.
 
 ---
 
-*Built by [Babar Ali](https://github.com/Babarali2k21) — AI Engineer portfolio project.*
+*Built by [Babar Ali](https://github.com/Babarali2k21) *
